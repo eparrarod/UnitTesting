@@ -1,9 +1,12 @@
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.fail;
 
 /**
  * Created by USER on 03/07/16.
+ *
+ * @author Esteban
  */
 public class AccountTest {
 
